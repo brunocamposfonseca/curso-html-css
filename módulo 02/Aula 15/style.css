@@ -1,0 +1,47 @@
+h1{
+    background-color: lightgray;
+    height: 300px;
+    width: 300px; 
+
+    /* border-width: 10px;
+    border-style: solid;
+    border-color: brown; */
+
+    border: 10px solid brown;
+
+    /* padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px; */
+
+    padding: 10px;
+
+    /* margin: auto;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+    margin-left: 20px; */
+
+    margin: auto 20px 20px 40px 20px;
+
+    /* outline-width: 5px;
+    outline-style: dashed;
+    outline-color: brown; */
+
+    outline: 5px dashed brown;
+}
+
+a{
+    /* border-width: 4px;
+    border-style: groove;
+    border-color: brown; */
+
+    border: 4px groove brown;
+
+    /* padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px; */
+
+    padding: 10px;
+}

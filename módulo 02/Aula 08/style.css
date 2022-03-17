@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100;0,200;0,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body{
+    /* font-family: 'Work Sans' Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-style: italic; */
+    text-decoration: underline;
+    font: italic bold 16px 'Work Sans', sans-serif;
+}

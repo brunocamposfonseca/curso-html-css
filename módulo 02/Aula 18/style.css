@@ -1,0 +1,50 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: burlywood;
+    margin: 0px;
+}
+
+header{
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px 20px 10px 20px;
+}
+
+nav > a{
+    background-color: antiquewhite;
+    text-decoration: none;
+    padding: 5px;
+    color: black;
+    border-radius: 5px;
+}
+a:hover{
+    text-decoration: underline;
+    color: brown;
+}
+
+main{
+    background-color: #ffffff;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px 30px 10px 30px;
+}
+
+h1{
+    background-color: antiquewhite;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+p{
+    background-color: antiquewhite;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+footer{
+    background-color: beige;
+    text-align: center;
+    padding: 1px;
+    margin: 0px;
+}

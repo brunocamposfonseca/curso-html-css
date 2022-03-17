@@ -1,0 +1,42 @@
+
+/* NOME */
+#t1 {
+    font-family: sans-serif;
+    background-color: blue; color: azure;
+    padding: 10px;
+}
+
+/* HEXADECIMAL */
+#t2 {
+    font-family: sans-serif;
+    background-color: #a62b54; color: #f0ffff;
+    padding: 10px;
+}
+
+/* RGB */
+#t3 {
+    font-family: sans-serif;
+    background-color: rgb(129, 44, 226); color: rgb( 255, 255, 255);
+    padding: 10px;
+}
+
+/* RGBA */
+#p1 {
+    font-family: sans-serif;
+    background-color: rgba(0, 0, 255); color: rgba(240, 255, 255);
+    padding: 10px;
+}
+
+/* HSL */
+#p2 {
+    font-family: sans-serif;
+    background-color: hsl(340, 59%, 41%); color: hsl(0, 0%, 100%);
+    padding: 10px;
+}
+
+/* HSLA */
+#p3 {
+    font-family: sans-serif;
+    background-color: hsla(268, 76%, 53%); color: hsla(0, 0%, 100%);
+    padding: 10px;
+}

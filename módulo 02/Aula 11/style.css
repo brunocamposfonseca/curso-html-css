@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body{
+    background-color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: brown;
+}
+
+#principal{
+    color: aliceblue;
+    background-color: brown;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+    font: 40px;
+    
+}
+
+h2{
+    color: brown;
+}

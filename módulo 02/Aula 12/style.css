@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+body{
+    background-color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: brown;
+}
+
+#principal{
+    color: aliceblue;
+    background-color: brown;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+    font: 40px;
+    
+}
+
+.categoria{
+    font-style: italic;
+    padding: 10px;
+}
+
+.marcadores{
+    color: brown;
+    font-weight: bold;
+}
+
+.posicao{
+    text-align: end;
+}
+
+h2{
+    color: brown;
+}

@@ -1,0 +1,15 @@
+*{
+    height: 100%;
+}
+
+body{
+    background-image: linear-gradient(to right, #ffffff, #a52a2a);
+}
+
+/* body{
+    background-image: radial-gradient( circle, #ffffff, #a52a2a);
+} */
+
+/* body{
+    background-image: linear-gradient(to right, #ffffff 30%, #a52a2a);
+} */

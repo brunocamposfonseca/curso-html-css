@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+    color: brown;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover{
+    color: rgb(231, 114, 67);
+}
+
+a:active{
+    color: black;
+}
+
+a::before{
+    content: '☞ ';
+}
+
+a::after{
+    content: ' ☜';
+}

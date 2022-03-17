@@ -1,0 +1,68 @@
+
+@font-face {
+    font-family: 'Sociais';
+    src: url('Fonts/Social\ Logos.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Reino';
+    src: url('Fonts/CloisterBlack.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Josefin';
+    src: url('Fonts/JosefinSans-VariableFont_wght.ttf') format('truetype');
+}
+
+body{
+    background-color: #a52a2a;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #000000;
+}
+
+main{
+    background-color: beige;
+    width: 600px;
+    padding: 30px;
+    border-radius: 10px;
+    margin: auto;
+    border-radius: 10px;
+    border-bottom: #000000;
+    box-shadow: 5px 5px 15px rgba(92, 56, 27, 0.61);
+}
+
+h1{
+    font-family: 'Sociais';
+    color: #4b1414;
+    font-size: 3em;
+    text-align: center;
+}
+
+h2{
+    font-family: 'Reino', serif;
+    color: #a52a2a;
+    font-size: 2.8em;
+    font-weight: 900;
+    font-style: italic;
+}
+
+h3{
+    font-family: 'Reino', serif;
+    color: #a52a2a;
+    font-size: 2em;
+    font-weight: 900;
+    font-style: italic;
+}
+
+p{
+    font-family:  'Josefin';
+    font-weight: 400;
+}
+
+footer{
+    color: antiquewhite;
+    text-align: center;
+    font-style: italic;
+    padding: 30px;
+}
