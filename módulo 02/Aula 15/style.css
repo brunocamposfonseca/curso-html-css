@@ -44,4 +44,6 @@ a{
     padding-left: 10px; */
 
     padding: 10px;
+    
+    display: block;
 }
