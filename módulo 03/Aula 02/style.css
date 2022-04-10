@@ -1,0 +1,22 @@
+body{
+    background-color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+
+main{
+    background-image: url(imagens-cap19/wallpaper001.jpg);
+    background-size: 100px 100px;
+    background-repeat: repeat;
+    /* 
+    background-repeat: no-repeat;
+    background-repeat: repeat-y;
+    background-repeat: repeat-x;
+    background-repeat: round;
+    background-repeat: space;
+    */ 
+    border-radius: 10px;
+    margin: 100px;
+    padding: 20px;
+}
